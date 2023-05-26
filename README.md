@@ -1,5 +1,5 @@
 # Amazon_Beverage_Analysis
-Analysis using PowerBI for Amazon Seller's Beverage Sales for the clinet "CLOUDTAIL"
+Analysis using PowerBI for Amazon Seller's Beverage Sales for the client "CLOUDTAIL"
 
 
 This repository contains a project focused on performing a beverage sales analysis for Amazon seller Cloudtail using Power BI. 
